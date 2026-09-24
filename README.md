@@ -4,6 +4,17 @@ A Java Swing desktop application for managing employee payroll records, calculat
 
 ---
 
+## Application Preview
+
+### Main Management Dashboard
+![Employee Payroll Management System](screenshots/payroll_dashboard.png)
+
+### Payslip Generation Preview
+![Salary Payslip](screenshots/payslip_sample.png)
+
+---
+
+
 ## 1. Problem Statement
 
 Develop a Java application for managing employee information, departments, salaries, deductions, and net salary. The system enables an organization to maintain employee payroll records and calculate employee salaries through a Swing-based application.
@@ -70,10 +81,14 @@ flowchart TD
 
 ```
 .
-├── PayrollEmployee.java     # Employee model with arrays and salary logic
-├── PayrollManager.java      # Data structures (LinkedList, HashMap, TreeMap)
-├── PayrollGUI.java          # Graphical Swing interface
-└── README.md                # System documentation
+├── screenshots/
+│   ├── payroll_dashboard.png # Main application dashboard preview
+│   └── payslip_sample.png    # Generated salary payslip preview
+├── LICENSE                   # MIT License file
+├── PayrollEmployee.java      # Employee model with arrays and salary logic
+├── PayrollManager.java       # Data structures (LinkedList, HashMap, TreeMap)
+├── PayrollGUI.java           # Graphical Swing interface
+└── README.md                 # System documentation
 ```
 
 ---
@@ -92,5 +107,12 @@ This project demonstrates the practical application of core Java data structures
   * Daksh Srivastava
   * Yuvraj Mishra
   * Sumit Shingole
+
+---
+
+## 8. License
+
+This project is open-source and licensed under the [MIT License](LICENSE).
+
 
 
