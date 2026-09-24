@@ -87,5 +87,10 @@ This project demonstrates the practical application of core Java data structures
 ## 7. Repository Information
 
 * Repository: [Employee_Payroll_Management_System](https://github.com/prathameshmore07/Employee_Payroll_Management_System)
-* Author: Prathamesh More
+* Authors:
+  * Prathamesh More
+  * Daksh Srivastava
+  * Yuvraj Mishra
+  * Sumit Shingole
+
 
